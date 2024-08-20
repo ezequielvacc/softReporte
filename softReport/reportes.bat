@@ -1,0 +1,1 @@
+start /B pythonw C:/Users/profe/Documents/softReport/reporter.py
